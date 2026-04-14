@@ -10,7 +10,7 @@ export function SEO({ title, description }: SEOProps) {
     document.title = `${title} | Heritage Conservation Network`;
     // If we want the specific global title for the home page or as a base:
     if (title === "Home" || !title) {
-      document.title = "Heritage Conservation Network | Global Stewardship Since 2002";
+      document.title = "Heritage Conservation Network | Preserving Global Heritage since 2002.";
     }
     const metaDescription = document.querySelector('meta[name="description"]');
     if (metaDescription) {

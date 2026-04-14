@@ -22,8 +22,7 @@ export function Hero() {
           transition={{ duration: 0.8 }}
           className="max-w-4xl text-4xl font-heading font-bold tracking-tight sm:text-5xl md:text-7xl"
         >
-          Preserving the Past, <br />
-          <span className="text-white/90 italic">Protecting the Future.</span>
+          Heritage Conservation Network
         </motion.h1>
         
         <motion.p 

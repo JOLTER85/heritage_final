@@ -1,4 +1,5 @@
 import { motion } from "motion/react";
+import { SEO } from "@/components/SEO";
 
 export default function CookiePolicy() {
   return (
@@ -7,6 +8,10 @@ export default function CookiePolicy() {
       animate={{ opacity: 1, y: 0 }}
       className="container mx-auto px-4 py-20"
     >
+      <SEO 
+        title="Cookie Policy" 
+        description="Information regarding the use of cookies and tracking technologies on the Heritage Conservation Network website to enhance institutional research accessibility."
+      />
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl font-heading font-bold text-primary mb-8">Cookie Policy</h1>
         <div className="prose prose-slate prose-lg max-w-none text-muted-foreground leading-relaxed">

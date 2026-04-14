@@ -1,4 +1,5 @@
 import { motion } from "motion/react";
+import { SEO } from "@/components/SEO";
 
 export default function TermsOfService() {
   return (
@@ -7,6 +8,10 @@ export default function TermsOfService() {
       animate={{ opacity: 1, y: 0 }}
       className="container mx-auto px-4 py-20"
     >
+      <SEO 
+        title="Terms of Service" 
+        description="The legal framework and usage guidelines for accessing the Heritage Conservation Network's research and global resources."
+      />
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl font-heading font-bold text-primary mb-8">Terms of Service</h1>
         <div className="prose prose-slate prose-lg max-w-none text-muted-foreground leading-relaxed">

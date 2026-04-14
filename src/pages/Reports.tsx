@@ -43,7 +43,7 @@ export default function Reports() {
     >
       <SEO 
         title="Technical Reports" 
-        description="Access our library of peer-reviewed technical reports and institutional impact assessments."
+        description="Institutional library containing peer-reviewed technical reports, chemical analyses of masonry decay, and annual conservation impact assessments."
       />
       
       <div className="max-w-4xl mx-auto">

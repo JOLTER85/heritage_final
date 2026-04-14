@@ -12,7 +12,7 @@ export default function Contact() {
     >
       <SEO 
         title="Contact Us" 
-        description="Get in touch with the Heritage Conservation Network. Reach out for volunteer inquiries, research collaborations, or general support."
+        description="Connect with our global headquarters for inquiries regarding volunteer opportunities, research collaborations, and institutional support for heritage conservation."
       />
       
       <div className="max-w-5xl mx-auto">

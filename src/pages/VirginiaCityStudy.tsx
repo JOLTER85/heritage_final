@@ -11,8 +11,8 @@ export default function VirginiaCityStudy() {
       className="container mx-auto px-4 py-20"
     >
       <SEO 
-        title="Biodiversity in Historical Environments" 
-        description="Case study of Virginia City: Analyzing the impact of historical environments on local biodiversity and avian micro-habitats."
+        title="Virginia City Case Study" 
+        description="Empirical analysis of the symbiotic relationship between 19th-century architecture and contemporary avian micro-habitats in Virginia City."
       />
       
       <div className="max-w-4xl mx-auto">

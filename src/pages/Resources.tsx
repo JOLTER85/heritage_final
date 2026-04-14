@@ -18,8 +18,8 @@ export default function Resources() {
       className="container mx-auto px-4 py-20"
     >
       <SEO 
-        title="Global Conservation Resources" 
-        description="A curated list of high-authority organizations and scientific resources for heritage and wildlife conservation."
+        title="Conservation Resources" 
+        description="A curated directory of high-authority international organizations and scientific databases essential for heritage and wildlife conservation."
       />
       
       <div className="max-w-4xl mx-auto">

@@ -15,8 +15,8 @@ export default function Home() {
       exit={{ opacity: 0 }}
     >
       <SEO 
-        title="Global Stewardship for Heritage" 
-        description="Heritage Conservation Network: A global initiative dedicated to the restoration of cultural heritage and wildlife conservation since 2002."
+        title="Home" 
+        description="Heritage Conservation Network is a global organization dedicated to the preservation of cultural monuments and natural biodiversity since 2002."
       />
       <Hero />
       <TrustBar />

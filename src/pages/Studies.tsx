@@ -45,7 +45,7 @@ export default function Studies() {
     >
       <SEO 
         title="Ecological Studies" 
-        description="In-depth ecological studies exploring the intersection of historical environments and natural biodiversity."
+        description="Longitudinal ecological studies exploring the symbiotic relationship between historical architectural environments and modern natural biodiversity."
       />
       
       <div className="max-w-4xl mx-auto">

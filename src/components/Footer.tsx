@@ -56,7 +56,7 @@ export function Footer() {
         <Separator className="my-12 bg-white/10" />
 
         <div className="flex flex-col items-center justify-between gap-4 text-sm text-primary-foreground/50 md:flex-row">
-          <p>© 2026 Heritage Conservation Network. All rights reserved.</p>
+          <p>© 2026 Heritage Conservation Network. Established 2002. All rights reserved.</p>
           <div className="flex flex-wrap justify-center gap-x-8 gap-y-2">
             <Link to="/about-us" className="hover:text-white transition-colors">About Us</Link>
             <Link to="/contact" className="hover:text-white transition-colors">Contact</Link>

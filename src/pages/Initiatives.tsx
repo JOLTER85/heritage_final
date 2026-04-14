@@ -12,10 +12,10 @@ export default function Initiatives() {
       details: "Our teams work globally to stabilize structures at risk from environmental decay, conflict, and neglect."
     },
     {
-      title: "Wildlife Habitat Protection",
+      title: "Wildlife and Avian Protection",
       icon: Bird,
       description: "Securing critical habitats for endangered species through land acquisition and community-led conservation.",
-      details: "We focus on biodiversity hotspots where human-wildlife conflict is most prevalent."
+      details: "We focus on biodiversity hotspots where human-wildlife conflict is most prevalent, with specialized protocols for avian nesting protection."
     },
     {
       title: "Sustainable Eco-Tourism",
@@ -51,7 +51,7 @@ export default function Initiatives() {
     >
       <SEO 
         title="Our Initiatives" 
-        description="Explore the global initiatives of Heritage Conservation Network, from monument restoration to wildlife habitat protection."
+        description="Detailed documentation of our global conservation initiatives, ranging from technical monument restoration to the protection of critical wildlife habitats."
       />
       
       <div className="max-w-6xl mx-auto">

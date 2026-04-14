@@ -11,8 +11,8 @@ export default function CulturalLandscape() {
       className="container mx-auto px-4 py-20"
     >
       <SEO 
-        title="Cultural Landscapes & Ecosystems" 
-        description="Explore the integration of human history and natural ecosystems. Learn how protecting cultural sites saves rare bird nests and maintains natural equilibrium."
+        title="Cultural Landscapes" 
+        description="Exploring the vital intersection of historical architecture and avian biodiversity within UNESCO-recognized cultural landscapes."
       />
       
       <div className="max-w-4xl mx-auto">
@@ -78,7 +78,7 @@ export default function CulturalLandscape() {
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-primary font-bold hover:underline"
             >
-              Technical avian biodiversity data and specialized ornithological protocols. <Bird className="h-4 w-4" />
+              Compendium of Avian Biodiversity and Ornithological Protocols for Heritage Sites. <Bird className="h-4 w-4" />
             </a>
           </section>
         </div>

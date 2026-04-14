@@ -64,7 +64,7 @@ export default function Articles() {
     >
       <SEO 
         title="Research Library" 
-        description="Browse our complete library of research articles, field reports, and academic publications."
+        description="A curated repository of peer-reviewed articles, field reports, and academic publications concerning global heritage and biodiversity conservation."
       />
       
       <div className="max-w-6xl mx-auto">

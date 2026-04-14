@@ -11,7 +11,7 @@ export default function AboutUs() {
     >
       <SEO 
         title="About Our Mission" 
-        description="Learn about the Heritage Conservation Network's mission, history, and global impact in preserving cultural and natural heritage since 2002."
+        description="A comprehensive overview of the Heritage Conservation Network's institutional mission, two-decade history, and global impact in preservation since 2002."
       />
       
       <div className="max-w-4xl mx-auto">
@@ -20,6 +20,10 @@ export default function AboutUs() {
         </h1>
 
         <section className="mb-16">
+          <div className="mb-6 inline-flex items-center gap-2 rounded-full bg-primary/10 px-4 py-1 text-sm font-bold text-primary">
+            <History className="h-4 w-4" />
+            Established 2002
+          </div>
           <p className="text-xl text-muted-foreground leading-relaxed mb-6">
             Founded in 2002, the Heritage Conservation Network (HCN) is an international non-profit organization dedicated to the preservation of the world's cultural heritage and the protection of global biodiversity.
           </p>

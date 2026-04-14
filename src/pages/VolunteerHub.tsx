@@ -32,8 +32,8 @@ export default function VolunteerHub() {
       className="container mx-auto px-4 py-20"
     >
       <SEO 
-        title="Global Volunteer Initiatives" 
-        description="Join our global volunteer network dedicated to biodiversity and heritage protection. Explore our institutional legacy and past missions since 2002."
+        title="Volunteer Initiatives" 
+        description="Join our international volunteer network dedicated to biodiversity and heritage protection. Review our two-decade institutional legacy of global field missions."
       />
       
       <div className="max-w-4xl mx-auto">

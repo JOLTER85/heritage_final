@@ -2,27 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://heritageconservation.net/</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-14</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://heritageconservation.net/ws-virginia-city-2007</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
+    <loc>https://heritageconservation.net/about-us</loc>
+    <lastmod>2026-04-14</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://heritageconservation.net/participant-info</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://heritageconservation.net/links</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
+    <loc>https://heritageconservation.net/initiatives</loc>
+    <lastmod>2026-04-14</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://heritageconservation.net/cultural-landscape</loc>
-    <lastmod>2026-04-12</lastmod>
+    <lastmod>2026-04-14</lastmod>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heritageconservation.net/reports</loc>
+    <lastmod>2026-04-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heritageconservation.net/studies</loc>
+    <lastmod>2026-04-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heritageconservation.net/articles</loc>
+    <lastmod>2026-04-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://heritageconservation.net/ws-virginia-city-2007</loc>
+    <lastmod>2026-04-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://heritageconservation.net/participant-info</loc>
+    <lastmod>2026-04-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://heritageconservation.net/links</loc>
+    <lastmod>2026-04-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://heritageconservation.net/contact</loc>
+    <lastmod>2026-04-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://heritageconservation.net/privacy-policy</loc>
+    <lastmod>2026-04-14</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://heritageconservation.net/terms-of-service</loc>
+    <lastmod>2026-04-14</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://heritageconservation.net/cookie-policy</loc>
+    <lastmod>2026-04-14</lastmod>
+    <priority>0.3</priority>
   </url>
 </urlset>

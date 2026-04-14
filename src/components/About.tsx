@@ -23,18 +23,18 @@ export function About() {
                 Through our Global Initiatives, we provide funding, expertise, and advocacy for sites that are under threat from climate change, urban expansion, and neglect.
               </p>
             </div>
-            <div className="mt-10 flex gap-8">
+            <div className="mt-10 grid grid-cols-2 gap-6 sm:flex sm:gap-8">
               <div>
-                <p className="text-4xl font-heading font-bold text-primary">20+</p>
-                <p className="text-sm text-muted-foreground uppercase tracking-wider">Years of Impact</p>
+                <p className="text-3xl font-heading font-bold text-primary md:text-4xl">20+</p>
+                <p className="text-xs text-muted-foreground uppercase tracking-wider">Years of Impact</p>
               </div>
               <div>
-                <p className="text-4xl font-heading font-bold text-primary">450+</p>
-                <p className="text-sm text-muted-foreground uppercase tracking-wider">Sites Restored</p>
+                <p className="text-3xl font-heading font-bold text-primary md:text-4xl">450+</p>
+                <p className="text-xs text-muted-foreground uppercase tracking-wider">Sites Restored</p>
               </div>
-              <div>
-                <p className="text-4xl font-heading font-bold text-primary">30</p>
-                <p className="text-sm text-muted-foreground uppercase tracking-wider">Countries Reached</p>
+              <div className="col-span-2 sm:col-span-1">
+                <p className="text-3xl font-heading font-bold text-primary md:text-4xl">30</p>
+                <p className="text-xs text-muted-foreground uppercase tracking-wider">Countries Reached</p>
               </div>
             </div>
           </motion.div>

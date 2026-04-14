@@ -35,20 +35,20 @@ export function ResearchBlog() {
   return (
     <section className="bg-muted/30 py-24">
       <div className="container mx-auto px-4">
-        <div className="mb-16 flex flex-col items-end justify-between gap-4 md:flex-row md:items-center">
+        <div className="mb-16 flex flex-col items-start justify-between gap-6 md:flex-row md:items-center">
           <div>
             <h2 className="text-3xl font-heading font-bold tracking-tight md:text-5xl">Latest Research</h2>
             <p className="mt-4 text-muted-foreground">Peer-reviewed articles and field reports from our global network.</p>
           </div>
-          <div className="flex gap-4">
-            <Link to="/reports" className="flex items-center gap-2 rounded-md border border-primary/20 px-6 py-2 text-sm font-medium text-primary transition-colors hover:bg-primary/5">
-              <FileText className="h-4 w-4" /> Technical Reports
+          <div className="flex flex-wrap gap-3 sm:gap-4">
+            <Link to="/reports" className="flex flex-1 items-center justify-center gap-2 rounded-md border border-primary/20 px-4 py-2 text-sm font-medium text-primary transition-colors hover:bg-primary/5 sm:flex-none sm:px-6">
+              <FileText className="h-4 w-4" /> Reports
             </Link>
-            <Link to="/studies" className="flex items-center gap-2 rounded-md border border-primary/20 px-6 py-2 text-sm font-medium text-primary transition-colors hover:bg-primary/5">
-              <Microscope className="h-4 w-4" /> Ecological Studies
+            <Link to="/studies" className="flex flex-1 items-center justify-center gap-2 rounded-md border border-primary/20 px-4 py-2 text-sm font-medium text-primary transition-colors hover:bg-primary/5 sm:flex-none sm:px-6">
+              <Microscope className="h-4 w-4" /> Studies
             </Link>
-            <Link to="/articles" className="rounded-md bg-primary px-6 py-2 text-sm font-medium text-white transition-colors hover:bg-primary/90">
-              View All Articles
+            <Link to="/articles" className="flex w-full items-center justify-center rounded-md bg-primary px-6 py-2 text-sm font-medium text-white transition-colors hover:bg-primary/90 sm:w-auto">
+              View All
             </Link>
           </div>
         </div>

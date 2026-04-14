@@ -20,7 +20,7 @@ export function Hero() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
-          className="max-w-4xl text-5xl font-heading font-bold tracking-tight md:text-7xl"
+          className="max-w-4xl text-4xl font-heading font-bold tracking-tight sm:text-5xl md:text-7xl"
         >
           Preserving the Past, <br />
           <span className="text-white/90 italic">Protecting the Future.</span>
@@ -30,7 +30,7 @@ export function Hero() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
-          className="mt-6 max-w-2xl text-lg text-white/80 md:text-xl"
+          className="mt-6 max-w-2xl text-base text-white/80 sm:text-lg md:text-xl"
         >
           A global initiative dedicated to the restoration of cultural heritage and wildlife conservation.
         </motion.p>

@@ -6,20 +6,20 @@ export function Footer() {
   return (
     <footer className="bg-primary text-primary-foreground">
       <div className="container mx-auto px-4 py-16">
-        <div className="grid gap-12 md:grid-cols-4">
-          <div className="col-span-2 space-y-6">
+        <div className="grid gap-12 sm:grid-cols-2 lg:grid-cols-4">
+          <div className="sm:col-span-2 lg:col-span-2 space-y-6">
             <Link to="/" className="flex items-center gap-2">
-              <Landmark className="h-8 w-8 text-white" />
-              <span className="text-2xl font-heading font-bold tracking-tight">
-                Heritage Conservation Network
+              <Landmark className="h-7 w-7 text-white md:h-8 md:w-8" />
+              <span className="text-xl font-heading font-bold tracking-tight md:text-2xl">
+                Heritage Conservation
               </span>
             </Link>
-            <p className="max-w-md text-primary-foreground/70 leading-relaxed">
+            <p className="max-w-md text-sm text-primary-foreground/70 leading-relaxed md:text-base">
               A leading international non-profit organization dedicated to the preservation of cultural heritage and the protection of global biodiversity.
             </p>
             <div className="flex gap-4">
               {[1, 2, 3, 4].map((i) => (
-                <div key={i} className="h-10 w-10 rounded-full bg-white/10 transition-colors hover:bg-white/20 cursor-pointer" />
+                <div key={i} className="h-9 w-9 rounded-full bg-white/10 transition-colors hover:bg-white/20 cursor-pointer md:h-10 md:w-10" />
               ))}
             </div>
           </div>
